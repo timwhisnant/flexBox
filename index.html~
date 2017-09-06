@@ -2,7 +2,7 @@
 <html>
 <head>
   <link href='https://fonts.googleapis.com/css?family=Libre+Baskerville:400,700,400italic' rel='stylesheet' type='text/css'>
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="resources/css/style.css">
 </head>
 <body>
   <div class="header">
@@ -32,34 +32,34 @@
  <div class="container">
   <h2 id="expertise">Our Expertise.</h2>
    <div class="main">
-   <div class="spacer">
-    <div class="cards">
-   <div class="col">
-    <img src="https://s3.amazonaws.com/codecademy-content/projects/headlines/p1.jpg">
-       <img src="https://s3.amazonaws.com/codecademy-content/projects/headlines/p6.jpg">
-    <img src="https://s3.amazonaws.com/codecademy-content/projects/headlines/p8.jpg">
-      </div>
-   <div class="col">
-     <img src="https://s3.amazonaws.com/codecademy-content/projects/headlines/p2.jpg">
-       <img src="https://s3.amazonaws.com/codecademy-content/projects/headlines/p5.jpg">
-    <img src="https://s3.amazonaws.com/codecademy-content/projects/headlines/p7.jpg">
+     <div class="spacer">
+       <div class="cards">
+         <div class="col">
+            <img src="https://s3.amazonaws.com/codecademy-content/projects/headlines/p1.jpg">
+            <img src="https://s3.amazonaws.com/codecademy-content/projects/headlines/p6.jpg">
+            <img src="https://s3.amazonaws.com/codecademy-content/projects/headlines/p8.jpg">
+      	 </div>
+       <div class="col">
+     	  <img src="https://s3.amazonaws.com/codecademy-content/projects/headlines/p2.jpg">
+          <img src="https://s3.amazonaws.com/codecademy-content/projects/headlines/p5.jpg">
+          <img src="https://s3.amazonaws.com/codecademy-content/projects/headlines/p7.jpg">
        </div>
    <div class="col">
      <img src="https://s3.amazonaws.com/codecademy-content/projects/headlines/p3.jpg">
      <img src="https://s3.amazonaws.com/codecademy-content/projects/headlines/p4.jpg">
-    <img src="https://s3.amazonaws.com/codecademy-content/projects/headlines/p9.jpg">
-      <img src="https://s3.amazonaws.com/codecademy-content/projects/headlines/p10.jpg">
+     <img src="https://s3.amazonaws.com/codecademy-content/projects/headlines/p9.jpg">
+     <img src="https://s3.amazonaws.com/codecademy-content/projects/headlines/p10.jpg">
      </div>
       </div>
     </div>
   </div>
     </div>
- <div class="footer">
+   <div class="footer">
    <h3>Headlines.</h3>
     <p>1000 7th Avenue</p>
-   <p>New York, NY</p>
+    <p>New York, NY</p>
     <p>(484) 192 - 8372</p>
    </div>
-	</body>
+  </body>
 </html>
 
